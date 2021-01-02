@@ -1,4 +1,8 @@
 adj_mat.pkl filter=lfs diff=lfs merge=lfs -text
 distances.csv filter=lfs diff=lfs merge=lfs -text
 speed.h5 filter=lfs diff=lfs merge=lfs -text
-speed2.h5.zip filter=lfs diff=lfs merge=lfs -text
+speed_1.h5.zip filter=lfs diff=lfs merge=lfs -text
+speed_2.h5.zip filter=lfs diff=lfs merge=lfs -text
+speed_3.h5.zip filter=lfs diff=lfs merge=lfs -text
+speed_4.h5.zip filter=lfs diff=lfs merge=lfs -text
+speed_5.h5.zip filter=lfs diff=lfs merge=lfs -text
